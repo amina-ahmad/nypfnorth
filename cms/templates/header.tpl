@@ -7,7 +7,7 @@
 
 <title>{$site_name}</title>
 <link rel="shortcut icon" href="../img/db_images/{$site_icon}" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="../css/bootstrap.min-sandstone.css" />
 <link rel="stylesheet" type="text/css" href="../css/slideshow.css"/>
 <link rel="stylesheet" type="text/css" href="../css/fonts/glyphicons-halflings-regular.ttf" />
 <link rel="stylesheet" href="../css/date.css" />
@@ -28,7 +28,7 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
-      <span class="navbar-brand"><img src="../img/nypf_logo.png" width="110px"/></span>
+      <span class="navbar-brand"><img src="../img/nypf_logo.png" style="width:30%"/></span>
     </div>
     <ul class="nav navbar-nav navbar-right">
       <li><a class="nav navbar-nav" href="home.php">Home</a></li>

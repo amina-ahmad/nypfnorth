@@ -1,6 +1,6 @@
 
 {if (isset($member))}
-  <table class="table table-hover">
+  <table class="table table-stripped table-hover">
   <thead>
     <tr class="table success">
       <th>#</th>
